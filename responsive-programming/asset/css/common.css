@@ -1,5 +1,14 @@
+* {
+  transition: all .7s ease-in;
+}
+
 html{
   background-color: #000000;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
 }
 
 header {
@@ -15,12 +24,58 @@ header span {
   color: #e09b41;
 }
 
+.vertical-line {
+  display: inline-block;
+  width: 50vw;
+  height: 80px;
+  border-right: 3px solid gray;
+}
+
+.section-thumbnail {
+  border-radius: 7px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2em;
+}
+
+.section-content > div {
+  line-height: 1.8em;
+}
+
 .git-section {
   background-color: #373657;
+  color: #eeeeee;
   display: inline-block;
   width: 100vw;
-  height: 500px;
+  height: 600px;
 }
+
+.hackathon-section {
+  background-color: #d4cc9c;
+  color: #000000;
+  display: inline-block;
+  width: 100vw;
+  height: 600px;
+}
+
+.instagram-section {
+  background-color: rgb(174, 187, 206);
+  color: #000000;
+  display: inline-block;
+  width: 100vw;
+  height: 800px;
+}
+
+.instagram-section .section-content {
+  padding-top: 0;
+}
+
+.instagram-section .section-content > div {
+  width: 95%;
+}
+
 
 
 /* Font */
