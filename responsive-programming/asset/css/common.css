@@ -1,0 +1,33 @@
+html{
+  background-color: #000000;
+}
+
+header {
+  font-family: Wemakeprice-Bold;
+  color: #efefef;
+  word-break: keep-all;
+  display: inline-block;
+  width: 100vw;
+  height: 100vh;
+}
+
+header span {
+  color: #e09b41;
+}
+
+.git-section {
+  background-color: #373657;
+  display: inline-block;
+  width: 100vw;
+  height: 500px;
+}
+
+
+/* Font */
+
+@font-face {
+  font-family: 'Wemakeprice-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Wemakeprice-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
