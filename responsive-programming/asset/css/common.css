@@ -33,6 +33,10 @@ header span {
 
 .section-thumbnail {
   border-radius: 7px;
+  max-width: 60vw;
+  max-height: 60vw;
+  width: 360px;
+  height: 360px;
 }
 
 .section-title {
