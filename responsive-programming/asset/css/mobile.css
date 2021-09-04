@@ -25,6 +25,10 @@
     line-height: 1.6em;
   }
 
+  .lion {
+    display: none;
+  }
+
   .section-content {
     text-align: center;
   }
