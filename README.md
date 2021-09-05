@@ -1,5 +1,5 @@
 # Responsive-Web conference
-## document: [Here](./MediaQuery-conference.pdf)
+## document : [here](./MediaQuery-conference.pdf)
 
 
 #### How to run the static sources.
