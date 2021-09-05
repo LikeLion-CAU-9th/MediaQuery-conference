@@ -1,12 +1,6 @@
 # Responsive-Web conference
+## URL : [here](https://likelion-cau-9th.github.io/MediaQuery-conference/)
 ## document : [here](./MediaQuery-conference.pdf)
-
-
-### How to run
-
-1. Clone this repository.
-2. Open the index.html file in VScode editor.
-3. Run it using 'Live-server' which is being provided as an extension.
 
 ---
 
